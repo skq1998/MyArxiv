@@ -4,13 +4,39 @@ cache_url = "https://skq1998.github.io/MyArxiv/cache.json"
 
 [[sources]]
 limit = 150
-category = "quant-ph"
-title = "Quantum Physics"
+category = "physics.atom-ph"
+title = "Atomic Physics"
 
 [[sources]]
 limit = 150
-category = "physics.atom-ph"
-title = "Atomic Physics"
+category = "quant-ph"
+title = "Quantum Physics"
+
+
+[[sources]]
+limit = 150
+category = "math-ph"
+title = "Mathematical Physics"
+
+[[sources]]
+limit = 150
+category = "hep-th"
+title = "High Energy Physics - Theory"
+
+[[sources]]
+limit = 150
+category = "cond-mat"
+title = "Condensed Matter"
+
+[[sources]]
+limit = 150
+category = "gr-qc"
+title = "General Relativity and Quantum Cosmology"
+
+[[sources]]
+limit = 150
+category = "hep-lat"
+title = "High Energy Physics - Lattice"
 
 [scripts]
 highlight_title = "scripts/highlight_title.rhai"
