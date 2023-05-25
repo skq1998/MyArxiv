@@ -23,7 +23,6 @@ let conferences = [
     //"FSE/ESEC", "ICSE", "ISSTA", "OSDI", "SOSP",
     // Security
     //"ACSA", "AsiaCCS", "CCS", "DSN", "ESORICS", "EuroS&P", "ICICS", "NDSS", "RAID", "SP", "USENIX Security"
-    "PRA"
 ];
 
 let start = conferences.shift();
